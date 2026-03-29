@@ -324,4 +324,4 @@ The first dashboard will take the longest because you're learning the process. A
 Reach out to Trav — happy to show you the live setup or help you get started.
 
 **Trav White**
-Neighbourhood (NBH) — nbh.com.au
+Neighbourhood (NBH) — nbh.co
